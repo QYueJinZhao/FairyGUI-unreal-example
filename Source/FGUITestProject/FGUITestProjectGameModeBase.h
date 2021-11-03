@@ -14,4 +14,6 @@ class FGUITESTPROJECT_API AFGUITestProjectGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+public:
+
 };
